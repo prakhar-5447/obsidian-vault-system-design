@@ -23,7 +23,7 @@
 
 ## LLD
 
-- [[09-LLD/OOP]]
+- [[OOPS]]
 - [[09-LLD/SOLID]]
 - [[09-LLD/UML]]
 - [[09-LLD/Design-Patterns/Factory]]
